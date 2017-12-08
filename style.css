@@ -48,9 +48,18 @@ header #branding{
 }
 
 
-header#branding{
+header #branding{
     margin:0;
 }
 
 
-header nav
+header nav{
+    float:right;
+    margin-top:10px;
+}
+
+
+header .highlight, head .current a{
+    color:#e8491d;
+    font-weight:bold;
+}
