@@ -74,6 +74,16 @@ header a:hover{
 
 /* Showcase */
 
+#boxes{
+	margin-top: 20px;
+	margin-bottom:150px;
+}
+#boxes .box{
+	float:left;
+	text-align: center;
+	width:30%;
+padding:10px;
+}
 
 #showcase{
     min-height:url('') no-repeat 0 -400px;
